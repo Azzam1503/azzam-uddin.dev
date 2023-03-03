@@ -63,7 +63,7 @@ export default function Home() {
                 </a>
 
                 <a
-                  href="#"
+                  href="https://drive.google.com/file/d/1hPap_TWeFVE1AYMOUMBamRKHGsV8rZKV/view?usp=sharing"
                   className="bg-gradient-to-r from-cyan-500 to-teal-500  text-white px-4 py-2 rounded-md mr-8 ml-8"
                 >
                   Resume
@@ -111,7 +111,7 @@ export default function Home() {
                 Skills
               </a>
               <a
-                href="#resume"
+                href="https://drive.google.com/file/d/1hPap_TWeFVE1AYMOUMBamRKHGsV8rZKV/view?usp=sharing"
                 className="w-full text-center py-6 hover:opacity-90"
               >
                 Resume
@@ -160,7 +160,7 @@ export default function Home() {
             <img
               src="/azzam.jpg "
               alt="Azzam"
-              className="w-3/4 sm:w-1/2 rounded-full mt-40 ml-4"
+              className="w-3/4 sm:w-1/2 rounded-full sm:mt-40 ml-4"
             />
           </div>
         </section>
@@ -418,7 +418,7 @@ export default function Home() {
         </section>
         <hr className="mx-auto bg-black dark:bg-white w-1/2 dark:opacity-40" />
       </main>
-      <footer className="flex justify-center p-2 text-[0.9rem] dark:bg-slate-900 dark:text-gray-200">
+      <footer className="flex justify-center p-2 text-[0.9rem] text-center dark:bg-slate-900 dark:text-gray-200">
         <p>© Copyright 2023 - Developed by Azzam Uddin. All rights reserved.</p>
       </footer>
     </div>
