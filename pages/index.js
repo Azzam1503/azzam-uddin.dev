@@ -257,7 +257,7 @@ export default function Home() {
               <h5 className="text-2xl mb-4 dark:text-slate-200">2017-2020</h5>
               <p className="dark:text-slate-50">
                 Diploma in Mechanical Engineering from <br />
-                Govt. Polytechinc Alapur, Budaun
+                Govt. Polytechnic Alapur, Budaun
               </p>
             </span>
             <span className="mb-10">
